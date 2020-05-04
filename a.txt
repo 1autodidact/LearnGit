@@ -2,3 +2,4 @@ hello git
 git is distributed system
 hello branch
 new branch
+hello man
