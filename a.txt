@@ -1,2 +1,3 @@
 hello git
 git is distributed system
+hello partner
