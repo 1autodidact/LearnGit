@@ -1,8 +1,4 @@
 hello git
 git is distributed system
 hello branch
-<<<<<<< HEAD
-create dev
-=======
-create dev
->>>>>>> dev
+new branch
